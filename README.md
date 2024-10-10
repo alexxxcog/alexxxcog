@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @alexxxcog
+- 👀 I’m interested in digital products, AI, mobile apps, and innovation through emerging technologies.
+- 🌱 I’m currently learning more about AI-driven dashboards, data visualization, and MQTT.
+- 💞️ I’m looking to collaborate on digital product innovation, dashboards, and AI-powered solutions.
+- 📫 How to reach me: alex.alves@digicog.com.br
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’ve been working with digital products for over 24 years—almost long enough to debug a printer without turning it off and on again!
